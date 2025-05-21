@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="/public/LogoUnsulbar 1.png" width="300" alt="LogoUnsulbar" />
+  <(https://github.com/Immayaa/Final_FWB/blob/main/Logo-Universitas-Sulawesi-Barat.webp)>
 </p>
 
 ### <p align="center">LISMAWATI</p>
