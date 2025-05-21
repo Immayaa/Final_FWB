@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <![Image](https://github.com/Immayaa/Final_FWB/blob/main/Logo-Universitas-Sulawesi-Barat.webp)>
+  <img src="https://raw.githubusercontent.com/Immayaa/Final_FWB/main/Logo-Universitas-Sulawesi-Barat.webp" width="500"/>
 </p>
 
 ### <p align="center">LISMAWATI</p>
